@@ -1,4 +1,7 @@
-# adhell_myhosts
+adhell_myhosts
+====
+
+merge
 
 http://android-dev.work/jp.txt
 https://280blocker.net/files/280blocker_host.txt
